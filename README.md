@@ -1,4 +1,4 @@
-# Dynamic-Sign-Language-Recognition-and-Translation-Using-Camera-for-Deaf-and-Dumb-People
+## Dynamic-Sign-Language-Recognition-and-Translation-Using-Camera-for-Deaf-and-Dumb-People
 
 Sign language recognition and translation in real time scenario, using deep learning (LSTM). Pakistani Sign Language dataset is used.
 
@@ -15,4 +15,6 @@ I have worked on a problem of Sign language recognition and translation using de
 • The translated word is then converted to audio using pyttsx3.
 • The complete project was designed in python programming language. 
 
-### Skills:  Keras ·Machine Learning ·TensorFlow ·Deep Learning ·Web App Development ·Python (Programming Language) ·Data Analysis ·Data Preprocessing.
+#### Skills:  Keras ·Machine Learning ·TensorFlow ·Deep Learning ·Web App Development ·Python (Programming Language) ·Data Analysis ·Data Preprocessing.
+
+##### Anyone who wants the access to Dataset of Pakistani Sign Language System. Contact me via email address: muzammilbinzubair@gmail.com 
