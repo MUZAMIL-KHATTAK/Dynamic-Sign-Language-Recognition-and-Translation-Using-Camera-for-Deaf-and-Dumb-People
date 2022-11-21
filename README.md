@@ -15,4 +15,4 @@ I have worked on a problem of Sign language recognition and translation using de
 • The translated word is then converted to audio using pyttsx3.
 • The complete project was designed in python programming language. 
 
-# Skills:  Keras ·Machine Learning ·TensorFlow ·Deep Learning ·Web App Development ·Python (Programming Language) ·Data Analysis ·Data Preprocessing.
+### Skills:  Keras ·Machine Learning ·TensorFlow ·Deep Learning ·Web App Development ·Python (Programming Language) ·Data Analysis ·Data Preprocessing.
